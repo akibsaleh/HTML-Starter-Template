@@ -1,8 +1,7 @@
 HTML-Starter-Template
 =====================
 
-Features included
-=================
+Features included:
 
 1. HTML 5
 2. Bootstrap 3.3.1 CDN
